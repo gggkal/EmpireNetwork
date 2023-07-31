@@ -15,25 +15,23 @@ copyright: Copyright &copy; 2023 - 2023 Roman Makeev
 # Page tree
 nav:
   - Anarchy:
-      - Overview: index.md
-      - AntiCheat: AntiCheat.md
-      - Clans: Clans.md
-      - Commands: Commands.md
-      - Economy: Economy.md
-      - Items: Items.md
-      - Levels: Levels.md
-      - NPC: NPC.md
-      - Plugins: Plugins.md
-      - RulesDiscord: RulesDiscord.md
-      - RulesModerators: RulesModerators.md
-      - RulesServer: RulesServer.md
-      - Wipes: Wipes.md
-  - Index: index.md
+      - Overview: anarchy/index.md
+      - AntiCheat: anarchy/AntiCheat.md
+      - Clans: anarchy/Clans.md
+      - Commands: anarchy/Commands.md
+      - Economy: anarchy/Economy.md
+      - Items: anarchy/Items.md
+      - Levels: anarchy/Levels.md
+      - NPC: anarchy/NPC.md
+      - Plugins: anarchy/Plugins.md
+      - RulesDiscord: anarchy/RulesDiscord.md
+      - RulesModerators: anarchy/RulesModerators.md
+      - RulesServer: anarchy/RulesServer.md
+      - Wipes: anarchy/Wipes.md
 
   # Configuration
 theme:
   name: 'material'
-
   # Don't include MkDocs' JavaScript
   include_search_page: false
   search_index_only: true
@@ -44,9 +42,9 @@ theme:
     - navigation.tabs
     - navigation.expand
   palette:
-    scheme: default
-    primary: indigo
-    accent: indigo
+    scheme: slate
+    primary: orange
+    accent: pink
   font:
     text: Roboto
     code: Roboto Mono
