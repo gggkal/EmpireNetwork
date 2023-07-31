@@ -48,8 +48,8 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: media/logo/circle-2.png
-  logo: media/logo/circle-2.png
+  favicon: media/logo.png
+  logo: media/logo.png
   icon:
     logo: logo
 
