@@ -29,6 +29,9 @@ nav:
       - RulesServer: anarchy/RulesServer.md
       - Wipes: anarchy/Wipes.md
 
+  - Moderators:
+      - Overview: moderator/index.md
+
   # Configuration
 theme:
   name: 'material'
